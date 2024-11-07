@@ -1,0 +1,20 @@
+//customer
+0546292416
+123456
+admin@admin.com 
+passsword
+https://t8nat.com/admin/
+
+"0596990513",
+        "0111111111",
+        "0222222222",
+        "0333333333",
+        "0999999999",
+        "0546892433"
+dart run build_runner build    
+
+
+skeletonizer: ^1.4.2
+toastification: ^2.2.0
+linkfy_text: ^1.1.6
+
